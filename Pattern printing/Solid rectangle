@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main() {
+    int nr,nc,n;
+    printf("Enter the value of n \n");
+    scanf("%d",&n);
+    for(nr=0;i<nr;nr++)
+{
+    for(nc=0;nc<=n;nc++)
+    {
+        printf("*");
+    }
+    printf("\n");
+}
+    return 0;
+}
